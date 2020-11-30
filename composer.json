@@ -1,0 +1,12 @@
+{
+    "name": "erwan/quete-twig",
+    "authors": [
+        {
+            "name": "Erwan",
+            "email": "erwan.cloitre@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.1"
+    }
+}
